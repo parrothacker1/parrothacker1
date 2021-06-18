@@ -18,12 +18,12 @@ pub struct ph1 {
 }
 pub fn skills() {
     let out=json!({
-              "skills":["Bash","Rust",
-                        "Java","HTML","CSS",
-                        "Javascript","C",
-                         "MySQL","PostgresSQL",
-                        "Python"]
-                 });   
+"skills":["Bash","Rust",
+          "Java","HTML","CSS",
+          "Javascript","C",
+          "MySQL","PostgresSQL",
+          "Python"]
+});   
     println!("{:?}",out["skills"]);
 }
 ```
