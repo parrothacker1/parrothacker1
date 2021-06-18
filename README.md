@@ -1,6 +1,7 @@
 ### Well Hello There 👋
 
-I'm the h4ck3r@parrot aka [parrothacker1](https://parrothacker1.github.io)
+I'm the h4ck3r@parrot aka the <strong>parrothacker1</strong>
 😈
 <br>
-<img src="profile.jpg">
+<div align="center">
+<img height="auto" width="200vw" src="profile.jpg"></div>
