@@ -36,3 +36,7 @@ fn main() {
       skill::skills();
 }
 ```
+
+Well Contact Me @
+* <a href="https://t.me/parrpthacker1">Telegram</a>
+* <a href="https://www.instagram.com/parrothacker1">Instagram</a>
