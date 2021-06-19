@@ -13,9 +13,6 @@ src/skill.rs
 ```rust
 use serde_json::json;
 
-pub struct ph1 {
-   skills:Vec<String>,
-}
 pub fn skills() {
     let out=json!({
 "skills":["Bash","Rust",
