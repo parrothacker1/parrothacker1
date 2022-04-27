@@ -17,7 +17,7 @@ pub fn skills() {
     let out=json!({
 "skills":["Bash","Rust",
           "Java","HTML","CSS",
-          "Javascript","C",
+          "Javascript","MongoDB",
           "MySQL","PostgresSQL",
           "Python"]
 });   
