@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a cybersec enthusiast who loves to<br>find vulnerabilities in your code and also loves<br>to participate in CTF events.<br>I am also a backend dev and I can write pretty <br>decent code.But yeah I know my projects says<br>otherwise because I do not make that much backend<br>stuff.I've improved my backend skills by making CTF <br>questions and solving them and optimising them.<br><br>My Repos consist of some project that I do just for fun<br>and learning, some incomplete hackathon projects<br>and source code of CTF challenges.<br>I would love to collaborate with like people who are interested in <br>solving CTFs or need a backend guy who knows Docker too
+I am a cybersec enthusiast who loves to find vulnerabilities in your code and also loves<br>to participate in CTF events.<br>I am also a backend dev and I can write pretty decent code.But yeah I know my projects says otherwise because I do not make that much backend stuff.<br>I've improved my backend skills by making CTF questions and solving them and optimising them.<br>My Repos consist of some project that I do just for fun and learning, some incomplete hackathon projects and source code of CTF challenges.<br>I would love to collaborate with like people who are interested in solving CTFs or need a backend guy who knows Docker too
 
 
 ## 🌐 Socials:
